@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development and Ethical Hacking
 - 💞️ I’m looking to collaborate on Web developer
-- 📫 How to reach me .. please click https://www.instagram.com/
+- 📫 How to reach me .. 
 
 <!---
 Hasanxx456/Hasanxx456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
